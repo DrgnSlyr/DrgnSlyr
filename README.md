@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DrgnSlyr
+- 👀 I’m interested in becoming a fullstack programmer
+- 🌱 I’m currently learning the basics of programming on The Odin Project
+- 💞️ I’m looking to collaborate on anything that would make me grow as a programmer
+- 📫 How to reach me : tristan.arel@me.com
